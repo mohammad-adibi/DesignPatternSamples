@@ -1,0 +1,17 @@
+{
+  "authors": [
+    {
+      "name": "mohammad adibi",
+      "email": "mohammadadibi1365@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "name": "DesignPatternSamples",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/mohammad-adibi/DesignPatternSamples"
+    }
+  ]
+
+}
